@@ -1,0 +1,11 @@
+env: dev,test,stage,prod
+url: https://www.bofa.com/
+user:
+  firstName: Vallabhai
+  lastName: Patel
+  salary: 12000
+  address:
+    houseNumber: 321
+    streetName: Nehru Street
+    cityName: Vishakhapatnam
+    zipCode: 530045
